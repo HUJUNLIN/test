@@ -1,0 +1,2 @@
+print 'dajiahao'
+print 'nihao'
